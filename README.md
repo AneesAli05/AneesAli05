@@ -10,8 +10,8 @@ A passionate developer with experience in [your skills/languages/technologies].
 - 📫 How to reach me: [aneesale04@gmail.com]
 
 ## 🛠️ Skills & Tools
-![Languages](https://img.shields.io/badge/-YourLanguage1-05122A?style=flat&logo=YourLogo&logoColor=white)
-![Tools](https://img.shields.io/badge/-Tool-05122A?style=flat&logo=ToolLogo&logoColor=white)
+![Languages](C++,Java,Python)
+![Tools](Pycharm,TRAE,VisualStudio)
 <!-- Add more badges from https://shields.io/ -->
 
 ## 📊 GitHub Stats

@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Anees Ali!
 
-<!--
-**AneesAli05/AneesAli05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+A passionate developer with experience in [your skills/languages/technologies].
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [SmartReader]
+- 🌱 I’m currently learning [DevOps]
+- 👯 I’m looking to collaborate on [Github]
+- 💬 Ask me about [Contribution]
+- 📫 How to reach me: [aneesale04@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+![Languages](https://img.shields.io/badge/-YourLanguage1-05122A?style=flat&logo=YourLogo&logoColor=white)
+![Tools](https://img.shields.io/badge/-Tool-05122A?style=flat&logo=ToolLogo&logoColor=white)
+<!-- Add more badges from https://shields.io/ -->
+
+## 📊 GitHub Stats
+![AneesAli05's GitHub stats](https://github-readme-stats.vercel.app/api?username=AneesAli05&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AneesAli05&theme=radical)](https://git.io/streak-stats)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=AneesAli05&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📫 Connect with me
+[![LinkedIn](https://www.linkedin.com/in/anees-ahmed-049741303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](Anees_Ahmed)
+
+<!-- Add more links as needed -->
+
+<!-- You can add gifs, memes, or custom banners too! -->

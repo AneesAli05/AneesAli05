@@ -3,17 +3,18 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate software developer driven by curiosity and a love for building solutions that make a difference. I thrive in collaborative environments and enjoy learning new technologies.
 
-- 🔭 I’m currently working on **SmartReader**  
-- 🌱 I’m currently learning **DevOps** & Cloud Computing  
-- 👯 I’m looking to collaborate on open-source projects, especially on **GitHub**  
-- 💬 Ask me about **contributions, programming, or anything tech!**  
-- 📫 Reach me: [aneesale04@gmail.com](mailto:aneesale04@gmail.com)  
-- 🥇 Fun Fact: I love solving puzzles & exploring new tech trends!
-- 🎨 Hobbies: Photography, reading tech blogs, and hiking in nature.
-- 🗣️ Languages: English, Urdu, a bit of Arabic.
-- 🌏 Open to remote work, freelance gigs, and networking with global devs!
+I'm a passionate software developer driven by curiosity and a love for building impactful solutions. I thrive in collaborative, fast-paced environments and am always eager to learn new technologies and best practices.
+
+- 🔭 Currently building **SmartReader** – an AI-powered document reader.
+- 🌱 Exploring **DevOps** and **Cloud Computing** to expand my toolkit.
+- 👯 Actively seeking to collaborate on **open-source projects** (especially here on GitHub!).
+- 💬 Ask me about **contributions, programming, or anything tech-related!**
+- 📫 Reach me anytime: [aneesale04@gmail.com](mailto:aneesale04@gmail.com)
+- 🥇 Fun fact: I’m a puzzle enthusiast and always on the lookout for new tech trends!
+- 🎨 Hobbies: Photography, reading tech blogs, hiking in nature.
+- 🗣️ Languages: English, Urdu.
+- 🌍 Open to remote work, freelance opportunities, and connecting with global devs!
 
 ---
 
@@ -24,12 +25,11 @@ I'm a passionate software developer driven by curiosity and a love for building 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](#)
 
 **Frameworks & Libraries**  
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](#)
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](#)
 
 **Tools & IDEs**  
 [![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)](#)
@@ -43,8 +43,6 @@ I'm a passionate software developer driven by curiosity and a love for building 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](#)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](#)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](#)
 
 **Databases**  
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
@@ -80,7 +78,7 @@ I'm a passionate software developer driven by curiosity and a love for building 
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anees-ahmed-049741303/" target="_blank">
